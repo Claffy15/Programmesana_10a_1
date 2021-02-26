@@ -8,6 +8,7 @@
 
 #5 Gorniks Arturs
 print(7**3 + 10*10)
+print(10+10)
 #6 Guþonoka Jevgeòija
 
 #7 Isaèenko Aleksandrs
